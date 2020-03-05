@@ -7,4 +7,4 @@ def display_board (board)
 end
 
 
-board= [0] "{   | X |   }"
+board= [0] "(   | X |   )"
