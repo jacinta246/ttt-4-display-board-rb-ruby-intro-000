@@ -1,6 +1,6 @@
 def display_board (board)
-  puts row [0]["   |   |   "]
-  puts row [1]["-----------"]
-  puts row [2]["   |   |   "]
-  puts row [3]["-----------"]
+  puts ["   |   |   "]
+  puts ["-----------"]
+  puts ["   |   |   "]
+  puts ["-----------"]
 end
